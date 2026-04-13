@@ -13,27 +13,7 @@
       }
     }
   ],
-  "headers": [
-    {
-      "source": "/assets/(.*\\.(js|mjs))",
-      "headers": [
-        {
-          "key": "Content-Type",
-          "value": "application/javascript"
-        }
-      ]
-    },
-    {
-      "source": "/(.*\\.(js|mjs))",
-      "headers": [
-        {
-          "key": "Content-Type",
-          "value": "application/javascript"
-        }
-      ]
-    }
-  ],
-  "rewrites": [
+    "rewrites": [
     {
       "source": "/api/games",
       "destination": "/api/games"
