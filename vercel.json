@@ -22,6 +22,15 @@
           "value": "application/javascript"
         }
       ]
+    },
+    {
+      "source": "/(.*\\.(js|mjs))",
+      "headers": [
+        {
+          "key": "Content-Type",
+          "value": "application/javascript"
+        }
+      ]
     }
   ],
   "rewrites": [
