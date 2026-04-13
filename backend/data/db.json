@@ -1,0 +1,2238 @@
+{
+  "games": [
+    {
+      "id": "g_1776018253959_633f80c294e28",
+      "name": "Portal 2",
+      "price": 200,
+      "shortDescription": "Portal 2 is a 2011 puzzle-platform game developed by Valve for Windows, macOS, Linux, PlayStation...",
+      "description": "Portal 2 is a 2011 puzzle-platform game developed by Valve for Windows, macOS, Linux, PlayStation 3, and Xbox 360. The digital PC versions are distributed online by Valve's Steam service, while all retail editions are distributed by Electronic Arts. A port for the Nintendo Switch was released as part of the Portal: Companion Collection in June 2022. Like the original Portal, players solve puzzles by placing portals and teleporting between them. Portal 2 adds features including excursion funnels, lasers, light bridges, and paint-like gels that alter player movement or allow portals to be placed on any surface. In the single-player campaign, players control Chell, who navigates the dilapidated Aperture Science Enrichment Center during its reconstruction by the supercomputer GLaDOS; new characters include robot Wheatley and Aperture founder Cave Johnson. In the new cooperative mode, players solve puzzles together as robots Atlas and P-Body.",
+      "images": [
+        "https://duckduckgo.com/i/65e8ef46ab129e96.jpg"
+      ],
+      "createdAt": "2026-04-12T18:24:13.959Z"
+    },
+    {
+      "id": "g_1776018238335_9167c8f305806",
+      "name": "BioShock",
+      "price": 200,
+      "shortDescription": "BioShock is a 2007 first-person shooter video game developed by 2K Boston and 2K Australia, and p...",
+      "description": "BioShock is a 2007 first-person shooter video game developed by 2K Boston and 2K Australia, and published by 2K. The first game in the BioShock series, it was released for Microsoft Windows and Xbox 360 platforms in August 2007; a PlayStation 3 port by Irrational, 2K Marin, 2K Australia and Digital Extremes was released in October 2008. The game follows player character Jack, who discovers the underwater city of Rapture, built by business magnate Andrew Ryan to be an isolated utopia. The discovery of ADAM, a genetic material which grants superhuman powers, initiated the city's turbulent decline. Jack attempts to escape Rapture, fighting its mutated and mechanical denizens, while engaging with the few sane survivors left and learning of the city's past. The player can defeat foes in several ways by using weapons, utilizing plasmids that give unique powers, and by turning Rapture's defenses against them through hacking.",
+      "images": [
+        "https://duckduckgo.com/i/0679f9d64156f1b1.jpg"
+      ],
+      "createdAt": "2026-04-12T18:23:58.335Z"
+    },
+    {
+      "id": "g_1776018199611_0495003fb15f",
+      "name": "Grand Theft Auto V",
+      "price": 200,
+      "shortDescription": "Grand Theft Auto V is a 2013 action-adventure game developed by Rockstar North and published by R...",
+      "description": "Grand Theft Auto V is a 2013 action-adventure game developed by Rockstar North and published by Rockstar Games. It is the seventh main entry in the Grand Theft Auto series, following 2008's Grand Theft Auto IV, and the fifteenth instalment overall. Set within the fictional state of San Andreas, based on Southern California, the single-player story follows three protagonists—retired bank robber Michael De Santa, street gangster Franklin Clinton, and drug dealer and gunrunner Trevor Philips—and their attempts to commit heists while under pressure from a corrupt government agency and powerful criminals. Players freely roam San Andreas's open world countryside and fictional city of Los Santos, based on Los Angeles. The game world is navigated on foot and by vehicle, from either a third-person or first-person perspective. Players control the protagonists throughout single-player and switch among them, both during and outside missions.",
+      "images": [
+        "https://duckduckgo.com/i/8ee1f6d85bef7b65.png"
+      ],
+      "createdAt": "2026-04-12T18:23:19.611Z"
+    },
+    {
+      "id": "g_1776018184995_939c537792756",
+      "name": "Half-Life 2",
+      "price": 200,
+      "shortDescription": "Half-Life 2 is a 2004 first-person shooter game developed and published by Valve Corporation. It ...",
+      "description": "Half-Life 2 is a 2004 first-person shooter game developed and published by Valve Corporation. It was published for Windows on Valve's digital distribution service, Steam. Like the original Half-Life, Half-Life 2 is played from a first-person perspective, combining combat, puzzles, and storytelling. It adds features such as vehicles and physics-based gameplay. The player controls Gordon Freeman, who joins a resistance effort to liberate Earth from the alien Combine empire. Half-Life 2 was created using Valve's Source game engine, which was developed simultaneously. Development lasted five years and cost US $40 million. Valve's president, Gabe Newell, set his team the goal of redefining the FPS genre. They integrated the Havok physics engine, which simulates real-world physics, to reinforce the sense of presence and create new gameplay. They also developed the characterization, with more detailed character models and animations.",
+      "images": [
+        "https://duckduckgo.com/i/1e40abae698f6807.jpg"
+      ],
+      "createdAt": "2026-04-12T18:23:04.995Z"
+    },
+    {
+      "id": "g_1776018162012_88d1f149a360b",
+      "name": "Disco Elysium: The",
+      "price": 200,
+      "shortDescription": "Disco Elysium is a 2019 role-playing video game developed and published by ZA/UM. The game was wr...",
+      "description": "Disco Elysium is a 2019 role-playing video game developed and published by ZA/UM. The game was written and designed by a team led by Estonian novelist Robert Kurvitz and executive producer Kaur Kender, featuring a painterly art style and music by the English band Sea Power. The game was released for Windows in October 2019 and macOS in April 2020. An expanded version of the game featuring full voice acting and new content, subtitled The Final Cut, was released for consoles in 2021 alongside a free update for the PC versions. In August 2025, the game was ported for Android. Disco Elysium follows a troubled detective with no memory of his identity or the world around him. As he investigates a murder with a detective from another precinct, the player can piece together the protagonist's identity and discover what led him to his state. Disco Elysium is a non-traditional role-playing game featuring little combat.",
+      "images": [
+        "https://duckduckgo.com/i/c6d403f9ac45ace9.jpeg"
+      ],
+      "createdAt": "2026-04-12T18:22:42.012Z"
+    }
+  ],
+  "bookings": [
+    {
+      "id": "b_1776018316144_340ff25d6f01",
+      "gameId": "g_1776018162012_88d1f149a360b",
+      "name": "yousef",
+      "phone": "50-000-0001",
+      "contacted": false,
+      "createdAt": "2026-04-12T18:25:16.144Z"
+    },
+    {
+      "id": "b_1776018302688_f3aebad58486a",
+      "gameId": "g_1776018238335_9167c8f305806",
+      "name": "anas",
+      "phone": "01141739623",
+      "contacted": false,
+      "createdAt": "2026-04-12T18:25:02.688Z"
+    },
+    {
+      "id": "b_1776018285374_2fdd3844ba1ec",
+      "gameId": "g_1776018199611_0495003fb15f",
+      "name": "diaa",
+      "phone": "01550859996",
+      "contacted": false,
+      "createdAt": "2026-04-12T18:24:45.374Z"
+    }
+  ],
+  "analytics": {
+    "totalVisitors": 3,
+    "visitorIds": [
+      "v_1775890598160_5906edc07be108",
+      "v_1775979653127_12bcb01968d928",
+      "v_1776018834815_4bb68b21560ff"
+    ],
+    "viewsByPath": {
+      "/": 103,
+      "/game/g_2": 13,
+      "/dashboard": 173,
+      "/game/g_1775890731117_1333653882428": 5,
+      "/game/g_1": 12,
+      "/game/g_1775980062165_77532e315d59a": 6,
+      "/game/g_1775986153495_c62d0911fb57d": 3,
+      "/game/g_1775986044996_baf5c6c0bd4e5": 3,
+      "/game/g_1775986193669_c668986b51bcc": 3,
+      "/game/g_1775986374139_bdbbb928dfccb": 9,
+      "/game/g_1775986426989_9e7a75f4bd6cc": 3,
+      "/game/g_1775986668980_7b20b7059d294": 3,
+      "/game/g_1775986827970_765853de01b62": 3,
+      "/game/g_1775987125721_a06b10272755d": 3,
+      "/game/g_1775996558741_67166cbf41718": 3,
+      "/game/g_1775996616336_32c75b6d1651b": 3,
+      "/game/g_1775997333751_835852899fce3": 3,
+      "/game/g_1776008601313_906f598534a88": 3
+    },
+    "viewsByGameId": {},
+    "timeByGameIdMs": {},
+    "events": [
+      {
+        "id": "a_1776019243945_f817cf79def62",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T18:40:43.945Z"
+      },
+      {
+        "id": "a_1776018941734_e95cc04aa2b2c",
+        "visitorId": "v_1776018834815_4bb68b21560ff",
+        "type": "page_view",
+        "path": "/",
+        "createdAt": "2026-04-12T18:35:41.735Z"
+      },
+      {
+        "id": "a_1776018902576_2c66316af419a",
+        "visitorId": "v_1776018834815_4bb68b21560ff",
+        "type": "page_view",
+        "path": "/",
+        "createdAt": "2026-04-12T18:35:02.576Z"
+      },
+      {
+        "id": "a_1776018891953_e06bce4b1fb12",
+        "visitorId": "v_1776018834815_4bb68b21560ff",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T18:34:51.953Z"
+      },
+      {
+        "id": "a_1776018834857_7977bf417a852",
+        "visitorId": "v_1776018834815_4bb68b21560ff",
+        "type": "page_view",
+        "path": "/",
+        "createdAt": "2026-04-12T18:33:54.857Z"
+      },
+      {
+        "id": "a_1776018640889_1f4d618d9c448",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T18:30:40.889Z"
+      },
+      {
+        "id": "a_1776018596015_50beddb2b93b5",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T18:29:56.016Z"
+      },
+      {
+        "id": "a_1776018319875_0ea9839211518",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T18:25:19.875Z"
+      },
+      {
+        "id": "a_1776018295306_e916c56d6345",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/",
+        "createdAt": "2026-04-12T18:24:55.306Z"
+      },
+      {
+        "id": "a_1776018292712_707a706231b34",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T18:24:52.712Z"
+      },
+      {
+        "id": "a_1776018256375_6ebfb139cf007",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/",
+        "createdAt": "2026-04-12T18:24:16.375Z"
+      },
+      {
+        "id": "a_1776018220591_9312386b32d39",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T18:23:40.591Z"
+      },
+      {
+        "id": "a_1776018215904_7bf744ff2ebcc",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/",
+        "createdAt": "2026-04-12T18:23:35.904Z"
+      },
+      {
+        "id": "a_1776018208702_dd7c4601eaeca",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T18:23:28.702Z"
+      },
+      {
+        "id": "a_1776018203557_d91c5e9c2a8ca",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/",
+        "createdAt": "2026-04-12T18:23:23.557Z"
+      },
+      {
+        "id": "a_1776018140968_a0848c81d489f",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T18:22:20.968Z"
+      },
+      {
+        "id": "a_1776018137063_8c84dbba26439",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/",
+        "createdAt": "2026-04-12T18:22:17.063Z"
+      },
+      {
+        "id": "a_1776018125387_6cea63d66bc08",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T18:22:05.387Z"
+      },
+      {
+        "id": "a_1776018122219_3d7db173e4a14",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/",
+        "createdAt": "2026-04-12T18:22:02.219Z"
+      },
+      {
+        "id": "a_1776018095945_baa27106c5c74",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T18:21:35.945Z"
+      },
+      {
+        "id": "a_1776018074554_3e2dd2b83e119",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/",
+        "createdAt": "2026-04-12T18:21:14.554Z"
+      },
+      {
+        "id": "a_1776018052593_07ed5cf726721",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T18:20:52.593Z"
+      },
+      {
+        "id": "a_1776018040193_65dfb79de60d9",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/",
+        "createdAt": "2026-04-12T18:20:40.193Z"
+      },
+      {
+        "id": "a_1776018036527_19a1ec4164ef",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T18:20:36.552Z"
+      },
+      {
+        "id": "a_1776009310129_b28d08805b31",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T15:55:10.129Z"
+      },
+      {
+        "id": "a_1776009308662_8b9e8fe719fd3",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/",
+        "createdAt": "2026-04-12T15:55:08.662Z"
+      },
+      {
+        "id": "a_1776009271096_793e6691a36dc",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T15:54:31.096Z"
+      },
+      {
+        "id": "a_1776009179559_30c3e37a2cebc",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T15:52:59.559Z"
+      },
+      {
+        "id": "a_1776009173077_cf026d07156f3",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T15:52:53.077Z"
+      },
+      {
+        "id": "a_1776009150773_42d7bd434f511",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T15:52:30.773Z"
+      },
+      {
+        "id": "a_1776009054962_0e5f4188fd1ec",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T15:50:54.962Z"
+      },
+      {
+        "id": "a_1776009039291_270e8e39d3588",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/",
+        "createdAt": "2026-04-12T15:50:39.291Z"
+      },
+      {
+        "id": "a_1776008991314_0c1c61da33b89",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T15:49:51.315Z"
+      },
+      {
+        "id": "a_1776008956773_0e248529edc29",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T15:49:16.773Z"
+      },
+      {
+        "id": "a_1776008948769_71ab8b695df23",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T15:49:08.769Z"
+      },
+      {
+        "id": "a_1776008944956_eb79a27dbce2a",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T15:49:04.956Z"
+      },
+      {
+        "id": "a_1776008831985_da63215fe6fb6",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T15:47:11.985Z"
+      },
+      {
+        "id": "a_1776008805805_9098f28551e59",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T15:46:45.805Z"
+      },
+      {
+        "id": "a_1776008798864_e50894844e54d",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T15:46:38.864Z"
+      },
+      {
+        "id": "a_1776008756395_e797682945dc",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T15:45:56.395Z"
+      },
+      {
+        "id": "a_1776008736646_3dafd3f31919e",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/",
+        "createdAt": "2026-04-12T15:45:36.646Z"
+      },
+      {
+        "id": "a_1776008723025_ca902921ab167",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T15:45:23.025Z"
+      },
+      {
+        "id": "a_1776008708390_54f69b3808db4",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/",
+        "createdAt": "2026-04-12T15:45:08.390Z"
+      },
+      {
+        "id": "a_1776008693898_5bc64a32cd3b4",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/",
+        "createdAt": "2026-04-12T15:44:53.898Z"
+      },
+      {
+        "id": "a_1776008619436_9334d8c6c73f4",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/",
+        "createdAt": "2026-04-12T15:43:39.436Z"
+      },
+      {
+        "id": "a_1776008614723_e26f623f129df",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/game/g_1776008601313_906f598534a88",
+        "createdAt": "2026-04-12T15:43:34.723Z"
+      },
+      {
+        "id": "a_1776008606363_6d890bab1f14b",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/",
+        "createdAt": "2026-04-12T15:43:26.363Z"
+      },
+      {
+        "id": "a_1776008588509_286984544b114",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T15:43:08.509Z"
+      },
+      {
+        "id": "a_1776008586169_7a9ca0e711393",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/",
+        "createdAt": "2026-04-12T15:43:06.169Z"
+      },
+      {
+        "id": "a_1776008459759_370dd81c3977",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/",
+        "createdAt": "2026-04-12T15:40:59.759Z"
+      },
+      {
+        "id": "a_1776008362815_fa2148181cff",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/",
+        "createdAt": "2026-04-12T15:39:22.815Z"
+      },
+      {
+        "id": "a_1776008355018_c3303731f895e",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/",
+        "createdAt": "2026-04-12T15:39:15.018Z"
+      },
+      {
+        "id": "a_1776008348823_351f7b891ea8f",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/",
+        "createdAt": "2026-04-12T15:39:08.823Z"
+      },
+      {
+        "id": "a_1776008342818_6ed32ba3a8831",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/",
+        "createdAt": "2026-04-12T15:39:02.818Z"
+      },
+      {
+        "id": "a_1776008315800_9f437c84cf1b6",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/",
+        "createdAt": "2026-04-12T15:38:35.800Z"
+      },
+      {
+        "id": "a_1776008298883_2044490c0951",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/",
+        "createdAt": "2026-04-12T15:38:18.883Z"
+      },
+      {
+        "id": "a_1776008194945_fd60d6a521c18",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/",
+        "createdAt": "2026-04-12T15:36:34.945Z"
+      },
+      {
+        "id": "a_1776007855690_5b206436fc635",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T15:30:55.690Z"
+      },
+      {
+        "id": "a_1776007852728_f4d005bbbb0a1",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T15:30:52.728Z"
+      },
+      {
+        "id": "a_1776007692687_b48e7030e0248",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T15:28:12.786Z"
+      },
+      {
+        "id": "a_1775997593673_9d83e42a7b6a2",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T12:39:53.673Z"
+      },
+      {
+        "id": "a_1775997580801_317dd001bf0e6",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/",
+        "createdAt": "2026-04-12T12:39:40.801Z"
+      },
+      {
+        "id": "a_1775997557481_b9c3c5693b0db",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T12:39:17.481Z"
+      },
+      {
+        "id": "a_1775997556323_88618aa5046b3",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/",
+        "createdAt": "2026-04-12T12:39:16.323Z"
+      },
+      {
+        "id": "a_1775997554427_853fcf9e985f7",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T12:39:14.427Z"
+      },
+      {
+        "id": "a_1775997551652_5fdc1df26d599",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T12:39:11.652Z"
+      },
+      {
+        "id": "a_1775997524672_15afd8f9ce134",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T12:38:44.672Z"
+      },
+      {
+        "id": "a_1775997521684_b3453ab344a1b",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T12:38:41.684Z"
+      },
+      {
+        "id": "a_1775997479678_da0ddf6681d2e",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T12:37:59.678Z"
+      },
+      {
+        "id": "a_1775997474425_30eac04ddab3b",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T12:37:54.425Z"
+      },
+      {
+        "id": "a_1775997471690_59a7c2f12dda6",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T12:37:51.691Z"
+      },
+      {
+        "id": "a_1775997448671_618bfa515f389",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T12:37:28.671Z"
+      },
+      {
+        "id": "a_1775997443292_2bb54900e2ef5",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T12:37:23.292Z"
+      },
+      {
+        "id": "a_1775997439674_62910b85a78b4",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T12:37:19.674Z"
+      },
+      {
+        "id": "a_1775997405701_c95560d640725",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T12:36:45.701Z"
+      },
+      {
+        "id": "a_1775997355079_6917fee37db22",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T12:35:55.079Z"
+      },
+      {
+        "id": "a_1775997339964_0274241bcaf0d",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/game/g_1775997333751_835852899fce3",
+        "createdAt": "2026-04-12T12:35:39.964Z"
+      },
+      {
+        "id": "a_1775997337582_8cc9091245448",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/",
+        "createdAt": "2026-04-12T12:35:37.582Z"
+      },
+      {
+        "id": "a_1775997251673_86b3fb0c0bb65",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T12:34:11.673Z"
+      },
+      {
+        "id": "a_1775997244676_41242d75484f3",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T12:34:04.676Z"
+      },
+      {
+        "id": "a_1775997241680_41920d1ea0e26",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T12:34:01.680Z"
+      },
+      {
+        "id": "a_1775997222502_ba127a216bd9c",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T12:33:42.502Z"
+      },
+      {
+        "id": "a_1775997187691_74d06144edb03",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T12:33:07.691Z"
+      },
+      {
+        "id": "a_1775997159891_de77a2cc60129",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T12:32:39.891Z"
+      },
+      {
+        "id": "a_1775997115157_08d170f4dc642",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T12:31:55.157Z"
+      },
+      {
+        "id": "a_1775997044572_b0968752ffe96",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T12:30:44.572Z"
+      },
+      {
+        "id": "a_1775997041792_c229fcc055dc",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/",
+        "createdAt": "2026-04-12T12:30:41.792Z"
+      },
+      {
+        "id": "a_1775997007666_dbc083e6d63b",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T12:30:07.666Z"
+      },
+      {
+        "id": "a_1775997004667_79c3c015a125f",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T12:30:04.667Z"
+      },
+      {
+        "id": "a_1775996997673_51684a38cc5d9",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T12:29:57.673Z"
+      },
+      {
+        "id": "a_1775996992675_227b214b8c9db",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T12:29:52.675Z"
+      },
+      {
+        "id": "a_1775996985681_6f756331e0f29",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T12:29:45.681Z"
+      },
+      {
+        "id": "a_1775996982679_e8c84f62e87cd",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T12:29:42.680Z"
+      },
+      {
+        "id": "a_1775996945804_1f4d2ee21321b",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T12:29:05.804Z"
+      },
+      {
+        "id": "a_1775996942082_46f17333e192d",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/",
+        "createdAt": "2026-04-12T12:29:02.082Z"
+      },
+      {
+        "id": "a_1775996929903_f7b42febec337",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T12:28:49.903Z"
+      },
+      {
+        "id": "a_1775996798686_c1033666ddbc8",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T12:26:38.686Z"
+      },
+      {
+        "id": "a_1775996790671_c34101242e6bb",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T12:26:30.671Z"
+      },
+      {
+        "id": "a_1775996777756_312c9001ca069",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T12:26:17.756Z"
+      },
+      {
+        "id": "a_1775996698273_607a8c593bb6f",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T12:24:58.273Z"
+      },
+      {
+        "id": "a_1775996692727_51b307ee3f369",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/",
+        "createdAt": "2026-04-12T12:24:52.727Z"
+      },
+      {
+        "id": "a_1775996685608_1d5476a95751c",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T12:24:45.608Z"
+      },
+      {
+        "id": "a_1775996675634_f631162cac6bf",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/game/g_1775996616336_32c75b6d1651b",
+        "createdAt": "2026-04-12T12:24:35.634Z"
+      },
+      {
+        "id": "a_1775996674068_0bac669523dfc",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/",
+        "createdAt": "2026-04-12T12:24:34.068Z"
+      },
+      {
+        "id": "a_1775996667360_ebcb357450c59",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T12:24:27.360Z"
+      },
+      {
+        "id": "a_1775996637636_1b5673f7a2ff2",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/game/g_1775996558741_67166cbf41718",
+        "createdAt": "2026-04-12T12:23:57.636Z"
+      },
+      {
+        "id": "a_1775996630211_c6e217a4805a4",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/",
+        "createdAt": "2026-04-12T12:23:50.211Z"
+      },
+      {
+        "id": "a_1775996610397_cf16060f5f543",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T12:23:30.397Z"
+      },
+      {
+        "id": "a_1775996596129_4b5a37a895dd1",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/",
+        "createdAt": "2026-04-12T12:23:16.129Z"
+      },
+      {
+        "id": "a_1775996569809_83e3fff00d8f8",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T12:22:49.809Z"
+      },
+      {
+        "id": "a_1775996560685_1cf3697ab4bc7",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/",
+        "createdAt": "2026-04-12T12:22:40.685Z"
+      },
+      {
+        "id": "a_1775996493152_c6bf0b371d745",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T12:21:33.152Z"
+      },
+      {
+        "id": "a_1775996453617_fe09c32762fa4",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T12:20:53.617Z"
+      },
+      {
+        "id": "a_1775996444778_a3385c9a0ff3c",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/",
+        "createdAt": "2026-04-12T12:20:44.778Z"
+      },
+      {
+        "id": "a_1775996041695_20bf063bbae4d",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T12:14:01.695Z"
+      },
+      {
+        "id": "a_1775996031651_da96a1ea6ede9",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T12:13:51.651Z"
+      },
+      {
+        "id": "a_1775996027658_e7f4cb3d2c3a5",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T12:13:47.658Z"
+      },
+      {
+        "id": "a_1775996019657_c8551273ab85c",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T12:13:39.657Z"
+      },
+      {
+        "id": "a_1775996014756_b137f8e179f3d",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T12:13:34.756Z"
+      },
+      {
+        "id": "a_1775995908656_40b7509f56c12",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T12:11:48.656Z"
+      },
+      {
+        "id": "a_1775995890649_bcfa237bab2a6",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T12:11:30.649Z"
+      },
+      {
+        "id": "a_1775995886685_48e359bb52a03",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T12:11:26.685Z"
+      },
+      {
+        "id": "a_1775995877872_49ccef73b0fab",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T12:11:17.872Z"
+      },
+      {
+        "id": "a_1775995638662_dc86ac6453311",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T12:07:18.662Z"
+      },
+      {
+        "id": "a_1775995632667_2c924670e7f45",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T12:07:12.668Z"
+      },
+      {
+        "id": "a_1775995599660_c23d05c2de239",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T12:06:39.660Z"
+      },
+      {
+        "id": "a_1775995591666_d6dcb3d944bb5",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T12:06:31.666Z"
+      },
+      {
+        "id": "a_1775995587685_f58eb6490f324",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T12:06:27.685Z"
+      },
+      {
+        "id": "a_1775995556802_cff0453dfd1ff",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T12:05:56.802Z"
+      },
+      {
+        "id": "a_1775995519667_1ef902e4930bf",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T12:05:19.667Z"
+      },
+      {
+        "id": "a_1775995512712_4ff7e0a192b65",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T12:05:12.713Z"
+      },
+      {
+        "id": "a_1775995342676_234751f741cb3",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T12:02:22.676Z"
+      },
+      {
+        "id": "a_1775995339162_3c79e5eab36c2",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T12:02:19.162Z"
+      },
+      {
+        "id": "a_1775994889322_e49e3dfc546b7",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T11:54:49.322Z"
+      },
+      {
+        "id": "a_1775994888179_2dbe0aa822769",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/",
+        "createdAt": "2026-04-12T11:54:48.179Z"
+      },
+      {
+        "id": "a_1775994864676_370a0fba30bef",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/",
+        "createdAt": "2026-04-12T11:54:24.676Z"
+      },
+      {
+        "id": "a_1775994858991_4ea502813f3b2",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/",
+        "createdAt": "2026-04-12T11:54:18.991Z"
+      },
+      {
+        "id": "a_1775994575074_a4b7275c8aa6e",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/",
+        "createdAt": "2026-04-12T11:49:35.074Z"
+      },
+      {
+        "id": "a_1775994377647_aa8dbf7f9fdfa",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/",
+        "createdAt": "2026-04-12T11:46:17.647Z"
+      },
+      {
+        "id": "a_1775994371658_a07fce06c803f",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/",
+        "createdAt": "2026-04-12T11:46:11.658Z"
+      },
+      {
+        "id": "a_1775994365049_b53d942633fb3",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/",
+        "createdAt": "2026-04-12T11:46:05.049Z"
+      },
+      {
+        "id": "a_1775994250117_16260a7c1ee08",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/",
+        "createdAt": "2026-04-12T11:44:10.117Z"
+      },
+      {
+        "id": "a_1775994233645_982b5ed0d8347",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T11:43:53.648Z"
+      },
+      {
+        "id": "a_1775989113702_4209605d0df86",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T10:18:33.702Z"
+      },
+      {
+        "id": "a_1775989054632_b24e5c83a862c",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T10:17:34.632Z"
+      },
+      {
+        "id": "a_1775989040638_dec1f681b9392",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T10:17:20.638Z"
+      },
+      {
+        "id": "a_1775988994022_2d5be29b47d67",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T10:16:34.022Z"
+      },
+      {
+        "id": "a_1775987976153_b346c78bc71d4",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T09:59:36.153Z"
+      },
+      {
+        "id": "a_1775987755590_d3befe79702be",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/",
+        "createdAt": "2026-04-12T09:55:55.590Z"
+      },
+      {
+        "id": "a_1775987634616_a51b8c32a51ff",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/",
+        "createdAt": "2026-04-12T09:53:54.616Z"
+      },
+      {
+        "id": "a_1775987575559_4a1d10177790e",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/",
+        "createdAt": "2026-04-12T09:52:55.559Z"
+      },
+      {
+        "id": "a_1775987570427_f6544debb5ae7",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/",
+        "createdAt": "2026-04-12T09:52:50.427Z"
+      },
+      {
+        "id": "a_1775987561094_b47c2e5897f57",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T09:52:41.094Z"
+      },
+      {
+        "id": "a_1775987557338_b2f4174bdaddf",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/",
+        "createdAt": "2026-04-12T09:52:37.338Z"
+      },
+      {
+        "id": "a_1775987555974_2ac38f9f53dcb",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T09:52:35.974Z"
+      },
+      {
+        "id": "a_1775987523389_3ddafda9a3bad",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/",
+        "createdAt": "2026-04-12T09:52:03.389Z"
+      },
+      {
+        "id": "a_1775987510921_d8b0eed23f39e",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T09:51:50.921Z"
+      },
+      {
+        "id": "a_1775987505629_31bbbaa17258f",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/",
+        "createdAt": "2026-04-12T09:51:45.629Z"
+      },
+      {
+        "id": "a_1775987503669_8014905cc21c8",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T09:51:43.669Z"
+      },
+      {
+        "id": "a_1775987494563_e1163627fd0d5",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T09:51:34.563Z"
+      },
+      {
+        "id": "a_1775987487995_4f63ff3b2e137",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/",
+        "createdAt": "2026-04-12T09:51:27.995Z"
+      },
+      {
+        "id": "a_1775987482572_bd8b36d505253",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T09:51:22.572Z"
+      },
+      {
+        "id": "a_1775987393600_6f7fa90567394",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/",
+        "createdAt": "2026-04-12T09:49:53.600Z"
+      },
+      {
+        "id": "a_1775987385629_b87666d2ea527",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/",
+        "createdAt": "2026-04-12T09:49:45.629Z"
+      },
+      {
+        "id": "a_1775987328475_55ba25b81e23f",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/",
+        "createdAt": "2026-04-12T09:48:48.475Z"
+      },
+      {
+        "id": "a_1775987319380_0d0c727c904e5",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T09:48:39.381Z"
+      },
+      {
+        "id": "a_1775987311893_ebe185a428088",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/",
+        "createdAt": "2026-04-12T09:48:31.893Z"
+      },
+      {
+        "id": "a_1775987248934_8d2fada19a6e7",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T09:47:28.934Z"
+      },
+      {
+        "id": "a_1775987230590_4c0a9bdeac676",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/",
+        "createdAt": "2026-04-12T09:47:10.590Z"
+      },
+      {
+        "id": "a_1775987225730_11e82fa4cce3f",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/",
+        "createdAt": "2026-04-12T09:47:05.730Z"
+      },
+      {
+        "id": "a_1775987135839_b2b4d666553b2",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/",
+        "createdAt": "2026-04-12T09:45:35.839Z"
+      },
+      {
+        "id": "a_1775987132711_6ac3e652c115a",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/game/g_1775987125721_a06b10272755d",
+        "createdAt": "2026-04-12T09:45:32.711Z"
+      },
+      {
+        "id": "a_1775987130130_e3c85d4ffb17e",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/",
+        "createdAt": "2026-04-12T09:45:30.130Z"
+      },
+      {
+        "id": "a_1775986985152_e45ee4af495b7",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T09:43:05.152Z"
+      },
+      {
+        "id": "a_1775986892602_57a607a4e350f",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/",
+        "createdAt": "2026-04-12T09:41:32.602Z"
+      },
+      {
+        "id": "a_1775986883630_e45c175cc5021",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/",
+        "createdAt": "2026-04-12T09:41:23.630Z"
+      },
+      {
+        "id": "a_1775986838056_87373fe52510d",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/",
+        "createdAt": "2026-04-12T09:40:38.056Z"
+      },
+      {
+        "id": "a_1775986834059_fe4f3b0675135",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/game/g_1775986827970_765853de01b62",
+        "createdAt": "2026-04-12T09:40:34.059Z"
+      },
+      {
+        "id": "a_1775986829978_0b2ddfc8b285d",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/",
+        "createdAt": "2026-04-12T09:40:29.978Z"
+      },
+      {
+        "id": "a_1775986769767_992cb95991b72",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T09:39:29.767Z"
+      },
+      {
+        "id": "a_1775986748594_00747d1ce3c8e",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T09:39:08.595Z"
+      },
+      {
+        "id": "a_1775986741649_3590052739847",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T09:39:01.649Z"
+      },
+      {
+        "id": "a_1775986681849_f0b446dab77de",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T09:38:01.849Z"
+      },
+      {
+        "id": "a_1775986680045_2d481bc4eb659",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/",
+        "createdAt": "2026-04-12T09:38:00.045Z"
+      },
+      {
+        "id": "a_1775986677018_45aa17a43b942",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/game/g_1775986668980_7b20b7059d294",
+        "createdAt": "2026-04-12T09:37:57.018Z"
+      },
+      {
+        "id": "a_1775986671537_ec972156cd2cf",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/",
+        "createdAt": "2026-04-12T09:37:51.537Z"
+      },
+      {
+        "id": "a_1775986660768_3cd123cd47bf1",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T09:37:40.768Z"
+      },
+      {
+        "id": "a_1775986648665_c53f7c93470db",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/",
+        "createdAt": "2026-04-12T09:37:28.665Z"
+      },
+      {
+        "id": "a_1775986582365_1f4deddf75cf8",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/",
+        "createdAt": "2026-04-12T09:36:22.365Z"
+      },
+      {
+        "id": "a_1775986492506_6326239e7b895",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T09:34:52.506Z"
+      },
+      {
+        "id": "a_1775986490860_1f3602a77108b",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T09:34:50.860Z"
+      },
+      {
+        "id": "a_1775986451577_b32db39d64995",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T09:34:11.577Z"
+      },
+      {
+        "id": "a_1775986431828_04426f81b2eb3",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/game/g_1775986426989_9e7a75f4bd6cc",
+        "createdAt": "2026-04-12T09:33:51.828Z"
+      },
+      {
+        "id": "a_1775986429132_5ae10db4d4c93",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/",
+        "createdAt": "2026-04-12T09:33:49.132Z"
+      },
+      {
+        "id": "a_1775986420742_1ef15cbe582ce",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T09:33:40.742Z"
+      },
+      {
+        "id": "a_1775986418592_ddebb63baeb02",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/game/g_1775986374139_bdbbb928dfccb",
+        "createdAt": "2026-04-12T09:33:38.592Z"
+      },
+      {
+        "id": "a_1775986396922_dd0e0dd3e901e",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/game/g_1775986374139_bdbbb928dfccb",
+        "createdAt": "2026-04-12T09:33:16.922Z"
+      },
+      {
+        "id": "a_1775986379354_f9ea9b2eaf942",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/game/g_1775986374139_bdbbb928dfccb",
+        "createdAt": "2026-04-12T09:32:59.354Z"
+      },
+      {
+        "id": "a_1775986375524_d306df7f4071b",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/",
+        "createdAt": "2026-04-12T09:32:55.524Z"
+      },
+      {
+        "id": "a_1775986367073_d11d68f35e008",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T09:32:47.073Z"
+      },
+      {
+        "id": "a_1775986364470_f8c9235c21ae8",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/",
+        "createdAt": "2026-04-12T09:32:44.470Z"
+      },
+      {
+        "id": "a_1775986199211_e4b682d0b3259",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/game/g_1775986193669_c668986b51bcc",
+        "createdAt": "2026-04-12T09:29:59.211Z"
+      },
+      {
+        "id": "a_1775986195518_4a87ce145ce7c",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/",
+        "createdAt": "2026-04-12T09:29:55.518Z"
+      },
+      {
+        "id": "a_1775986187215_86c105feb4054",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T09:29:47.215Z"
+      },
+      {
+        "id": "a_1775986171486_75013a31be7fb",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/",
+        "createdAt": "2026-04-12T09:29:31.486Z"
+      },
+      {
+        "id": "a_1775986170151_b039d7359d91",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/game/g_1775980062165_77532e315d59a",
+        "createdAt": "2026-04-12T09:29:30.151Z"
+      },
+      {
+        "id": "a_1775986168552_8e7cb386baa8",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/",
+        "createdAt": "2026-04-12T09:29:28.552Z"
+      },
+      {
+        "id": "a_1775986166973_f8e1ee1a2af3a",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/game/g_1775986044996_baf5c6c0bd4e5",
+        "createdAt": "2026-04-12T09:29:26.973Z"
+      },
+      {
+        "id": "a_1775986164664_3b6552a6bfe26",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/",
+        "createdAt": "2026-04-12T09:29:24.664Z"
+      },
+      {
+        "id": "a_1775986158833_a45306e668c57",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/game/g_1775986153495_c62d0911fb57d",
+        "createdAt": "2026-04-12T09:29:18.833Z"
+      },
+      {
+        "id": "a_1775986154887_114a06fca8be4",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/",
+        "createdAt": "2026-04-12T09:29:14.887Z"
+      },
+      {
+        "id": "a_1775986131604_a933677586c6b",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T09:28:51.605Z"
+      },
+      {
+        "id": "a_1775986123576_e7e3e2cf8d34b",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T09:28:43.576Z"
+      },
+      {
+        "id": "a_1775986121083_f413ef20de1de",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T09:28:41.083Z"
+      },
+      {
+        "id": "a_1775986052025_bf7b85390f29f",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T09:27:32.025Z"
+      },
+      {
+        "id": "a_1775986047369_9909c6df6f75d",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/",
+        "createdAt": "2026-04-12T09:27:27.369Z"
+      },
+      {
+        "id": "a_1775986027626_4c4bc1833dd33",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T09:27:07.627Z"
+      },
+      {
+        "id": "a_1775985987607_96e0cd2b1e1a4",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T09:26:27.607Z"
+      },
+      {
+        "id": "a_1775985915984_1b35a3fcb5767",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T09:25:15.984Z"
+      },
+      {
+        "id": "a_1775985769600_185a624314038",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T09:22:49.600Z"
+      },
+      {
+        "id": "a_1775985727816_fd350834a40e7",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T09:22:07.816Z"
+      },
+      {
+        "id": "a_1775985715600_c4e57763510fb",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T09:21:55.600Z"
+      },
+      {
+        "id": "a_1775985685236_23820bee96dba",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T09:21:25.237Z"
+      },
+      {
+        "id": "a_1775985664580_56cfc1ff6b891",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T09:21:04.580Z"
+      },
+      {
+        "id": "a_1775985642153_8206cdb5bdbf2",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T09:20:42.153Z"
+      },
+      {
+        "id": "a_1775985639605_2b7c9c5a10bc4",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T09:20:39.605Z"
+      },
+      {
+        "id": "a_1775985608224_73a4a21b25378",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T09:20:08.224Z"
+      },
+      {
+        "id": "a_1775985550369_eb560a518c8f1",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T09:19:10.369Z"
+      },
+      {
+        "id": "a_1775985537589_e326e55d7d567",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T09:18:57.589Z"
+      },
+      {
+        "id": "a_1775985470702_20b6c9742a8ce",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T09:17:50.703Z"
+      },
+      {
+        "id": "a_1775985417721_6d2ea1d13fd84",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T09:16:57.721Z"
+      },
+      {
+        "id": "a_1775985391423_f78d639e43fe2",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/",
+        "createdAt": "2026-04-12T09:16:31.423Z"
+      },
+      {
+        "id": "a_1775985374145_723c6c8ef1047",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/",
+        "createdAt": "2026-04-12T09:16:14.147Z"
+      },
+      {
+        "id": "a_1775985313716_4a90ec494527c",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T09:15:13.716Z"
+      },
+      {
+        "id": "a_1775985311250_7fd4184e87432",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/",
+        "createdAt": "2026-04-12T09:15:11.250Z"
+      },
+      {
+        "id": "a_1775985283681_11e650e75fb57",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T09:14:43.681Z"
+      },
+      {
+        "id": "a_1775985134312_6ac5bf306f6c2",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T09:12:14.312Z"
+      },
+      {
+        "id": "a_1775985120180_1d409b0796e1b",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/",
+        "createdAt": "2026-04-12T09:12:00.187Z"
+      },
+      {
+        "id": "a_1775983664072_efb2eb589d3bf",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/",
+        "createdAt": "2026-04-12T08:47:44.073Z"
+      },
+      {
+        "id": "a_1775983642164_71394ff8a08f8",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/",
+        "createdAt": "2026-04-12T08:47:22.164Z"
+      },
+      {
+        "id": "a_1775983617095_d398e2b82e98",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/game/g_1775980062165_77532e315d59a",
+        "createdAt": "2026-04-12T08:46:57.095Z"
+      },
+      {
+        "id": "a_1775983536958_709694cc9120f",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/",
+        "createdAt": "2026-04-12T08:45:36.958Z"
+      },
+      {
+        "id": "a_1775983495458_ff197daf4541d",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T08:44:55.458Z"
+      },
+      {
+        "id": "a_1775983467301_e9c772488be5c",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/",
+        "createdAt": "2026-04-12T08:44:27.301Z"
+      },
+      {
+        "id": "a_1775983460204_c17cbb6bf65af",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T08:44:20.204Z"
+      },
+      {
+        "id": "a_1775983458696_0cfe5d351e461",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T08:44:18.698Z"
+      },
+      {
+        "id": "a_1775983428143_7879f1636680e",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T08:43:48.143Z"
+      },
+      {
+        "id": "a_1775980457983_ee08c47a78a57",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T07:54:17.983Z"
+      },
+      {
+        "id": "a_1775980455096_27c211b5aa9c",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T07:54:15.096Z"
+      },
+      {
+        "id": "a_1775980453062_f4f6eee71bdd9",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T07:54:13.062Z"
+      },
+      {
+        "id": "a_1775980311974_09e1cfe05022c",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T07:51:51.975Z"
+      },
+      {
+        "id": "a_1775980227347_8e9a8c73ae9aa",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T07:50:27.348Z"
+      },
+      {
+        "id": "a_1775979866595_3abb33d4182f2",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T07:44:26.596Z"
+      },
+      {
+        "id": "a_1775979768516_54fd8a83ba41",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T07:42:48.516Z"
+      },
+      {
+        "id": "a_1775979737725_844ac68f9aadc",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T07:42:17.725Z"
+      },
+      {
+        "id": "a_1775979717546_916a663a96df4",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T07:41:57.546Z"
+      },
+      {
+        "id": "a_1775979653144_52ed97b0e65df",
+        "visitorId": "v_1775979653127_12bcb01968d928",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T07:40:53.144Z"
+      },
+      {
+        "id": "a_1775979621599_deccd828c5295",
+        "visitorId": "v_1775890598160_5906edc07be108",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T07:40:21.599Z"
+      },
+      {
+        "id": "a_1775979530700_5452241be7e74",
+        "visitorId": "v_1775890598160_5906edc07be108",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T07:38:50.700Z"
+      },
+      {
+        "id": "a_1775979457767_9efc0ddd9a053",
+        "visitorId": "v_1775890598160_5906edc07be108",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T07:37:37.767Z"
+      },
+      {
+        "id": "a_1775979248755_c75df690c7bc",
+        "visitorId": "v_1775890598160_5906edc07be108",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-12T07:34:08.757Z"
+      },
+      {
+        "id": "a_1775934154885_b76cc1f9df64b",
+        "visitorId": "v_1775890598160_5906edc07be108",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-11T19:02:34.889Z"
+      },
+      {
+        "id": "a_1775933083774_3852aede01a24",
+        "visitorId": "v_1775890598160_5906edc07be108",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-11T18:44:43.776Z"
+      },
+      {
+        "id": "a_1775902513621_73d1f8b06e3da",
+        "visitorId": "v_1775890598160_5906edc07be108",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-11T10:15:13.764Z"
+      },
+      {
+        "id": "a_1775892564857_2483acfd3b1d8",
+        "visitorId": "v_1775890598160_5906edc07be108",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-11T07:29:24.857Z"
+      },
+      {
+        "id": "a_1775892562317_eb60ecc66fc63",
+        "visitorId": "v_1775890598160_5906edc07be108",
+        "type": "page_view",
+        "path": "/game/g_1",
+        "createdAt": "2026-04-11T07:29:22.317Z"
+      },
+      {
+        "id": "a_1775892560707_a72f24a9e38a9",
+        "visitorId": "v_1775890598160_5906edc07be108",
+        "type": "page_view",
+        "path": "/game/g_1",
+        "createdAt": "2026-04-11T07:29:20.707Z"
+      },
+      {
+        "id": "a_1775892555425_d05be9c4feebd",
+        "visitorId": "v_1775890598160_5906edc07be108",
+        "type": "page_view",
+        "path": "/game/g_1",
+        "createdAt": "2026-04-11T07:29:15.425Z"
+      },
+      {
+        "id": "a_1775892551596_7505ad871814c",
+        "visitorId": "v_1775890598160_5906edc07be108",
+        "type": "page_view",
+        "path": "/",
+        "createdAt": "2026-04-11T07:29:11.598Z"
+      },
+      {
+        "id": "a_1775892326373_472128a12c00e",
+        "visitorId": "v_1775890598160_5906edc07be108",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-11T07:25:26.373Z"
+      },
+      {
+        "id": "a_1775892323115_f1a8d41124ac8",
+        "visitorId": "v_1775890598160_5906edc07be108",
+        "type": "page_view",
+        "path": "/",
+        "createdAt": "2026-04-11T07:25:23.115Z"
+      },
+      {
+        "id": "a_1775892239311_e61ff72601f1",
+        "visitorId": "v_1775890598160_5906edc07be108",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-11T07:23:59.311Z"
+      },
+      {
+        "id": "a_1775892234299_1f2509d0ff095",
+        "visitorId": "v_1775890598160_5906edc07be108",
+        "type": "page_view",
+        "path": "/",
+        "createdAt": "2026-04-11T07:23:54.300Z"
+      },
+      {
+        "id": "a_1775892059281_6a3a3cf8bf6a2",
+        "visitorId": "v_1775890598160_5906edc07be108",
+        "type": "page_view",
+        "path": "/",
+        "createdAt": "2026-04-11T07:20:59.281Z"
+      },
+      {
+        "id": "a_1775892053553_9d60ca3050d3d",
+        "visitorId": "v_1775890598160_5906edc07be108",
+        "type": "page_view",
+        "path": "/",
+        "createdAt": "2026-04-11T07:20:53.554Z"
+      },
+      {
+        "id": "a_1775891877364_8b0548cd077f1",
+        "visitorId": "v_1775890598160_5906edc07be108",
+        "type": "page_view",
+        "path": "/",
+        "createdAt": "2026-04-11T07:17:57.364Z"
+      },
+      {
+        "id": "a_1775891850366_0e4da9929e127",
+        "visitorId": "v_1775890598160_5906edc07be108",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-11T07:17:30.366Z"
+      },
+      {
+        "id": "a_1775891833929_69ed09fcc8dda",
+        "visitorId": "v_1775890598160_5906edc07be108",
+        "type": "page_view",
+        "path": "/game/g_1775890731117_1333653882428",
+        "createdAt": "2026-04-11T07:17:13.929Z"
+      },
+      {
+        "id": "a_1775891829317_5568e35cdf41a",
+        "visitorId": "v_1775890598160_5906edc07be108",
+        "type": "page_view",
+        "path": "/",
+        "createdAt": "2026-04-11T07:17:09.317Z"
+      },
+      {
+        "id": "a_1775891809902_c2e1cfa194b28",
+        "visitorId": "v_1775890598160_5906edc07be108",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-11T07:16:49.902Z"
+      },
+      {
+        "id": "a_1775891790119_c6e1392a31bc5",
+        "visitorId": "v_1775890598160_5906edc07be108",
+        "type": "page_view",
+        "path": "/game/g_2",
+        "createdAt": "2026-04-11T07:16:30.119Z"
+      },
+      {
+        "id": "a_1775891787060_f98cf42c04982",
+        "visitorId": "v_1775890598160_5906edc07be108",
+        "type": "page_view",
+        "path": "/",
+        "createdAt": "2026-04-11T07:16:27.060Z"
+      },
+      {
+        "id": "a_1775891784902_aa753ae92e1aa",
+        "visitorId": "v_1775890598160_5906edc07be108",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-11T07:16:24.906Z"
+      },
+      {
+        "id": "a_1775891480644_a713245c529cc",
+        "visitorId": "v_1775890598160_5906edc07be108",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-11T07:11:20.644Z"
+      },
+      {
+        "id": "a_1775891479212_9e998f5e0fbd4",
+        "visitorId": "v_1775890598160_5906edc07be108",
+        "type": "page_view",
+        "path": "/",
+        "createdAt": "2026-04-11T07:11:19.213Z"
+      },
+      {
+        "id": "a_1775891373877_263de8ed9af68",
+        "visitorId": "v_1775890598160_5906edc07be108",
+        "type": "page_view",
+        "path": "/game/g_2",
+        "createdAt": "2026-04-11T07:09:33.877Z"
+      },
+      {
+        "id": "a_1775891371168_dd1e5ae1af1a",
+        "visitorId": "v_1775890598160_5906edc07be108",
+        "type": "page_view",
+        "path": "/",
+        "createdAt": "2026-04-11T07:09:31.168Z"
+      },
+      {
+        "id": "a_1775891357733_8deee1039caca",
+        "visitorId": "v_1775890598160_5906edc07be108",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-11T07:09:17.733Z"
+      },
+      {
+        "id": "a_1775891343757_1d7e17272bd5e",
+        "visitorId": "v_1775890598160_5906edc07be108",
+        "type": "page_view",
+        "path": "/game/g_1",
+        "createdAt": "2026-04-11T07:09:03.757Z"
+      },
+      {
+        "id": "a_1775891341908_87b89a7a816e4",
+        "visitorId": "v_1775890598160_5906edc07be108",
+        "type": "page_view",
+        "path": "/",
+        "createdAt": "2026-04-11T07:09:01.908Z"
+      },
+      {
+        "id": "a_1775891335618_095320fe38756",
+        "visitorId": "v_1775890598160_5906edc07be108",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-11T07:08:55.618Z"
+      },
+      {
+        "id": "a_1775891331135_c5e4719d03f94",
+        "visitorId": "v_1775890598160_5906edc07be108",
+        "type": "page_view",
+        "path": "/game/g_2",
+        "createdAt": "2026-04-11T07:08:51.136Z"
+      },
+      {
+        "id": "a_1775891323857_46914610733ec",
+        "visitorId": "v_1775890598160_5906edc07be108",
+        "type": "page_view",
+        "path": "/",
+        "createdAt": "2026-04-11T07:08:43.860Z"
+      },
+      {
+        "id": "a_1775890796781_fe4a331e99a81",
+        "visitorId": "v_1775890598160_5906edc07be108",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-11T06:59:56.781Z"
+      },
+      {
+        "id": "a_1775890759409_191f1d5291026",
+        "visitorId": "v_1775890598160_5906edc07be108",
+        "type": "page_view",
+        "path": "/game/g_1775890731117_1333653882428",
+        "createdAt": "2026-04-11T06:59:19.409Z"
+      },
+      {
+        "id": "a_1775890746588_a364a1597fd9c",
+        "visitorId": "v_1775890598160_5906edc07be108",
+        "type": "page_view",
+        "path": "/",
+        "createdAt": "2026-04-11T06:59:06.588Z"
+      },
+      {
+        "id": "a_1775890693874_1ce82f6ad59f9",
+        "visitorId": "v_1775890598160_5906edc07be108",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-11T06:58:13.874Z"
+      },
+      {
+        "id": "a_1775890691962_939a2caff96b5",
+        "visitorId": "v_1775890598160_5906edc07be108",
+        "type": "page_view",
+        "path": "/",
+        "createdAt": "2026-04-11T06:58:11.962Z"
+      },
+      {
+        "id": "a_1775890646254_3a1898e928ae4",
+        "visitorId": "v_1775890598160_5906edc07be108",
+        "type": "page_view",
+        "path": "/dashboard",
+        "createdAt": "2026-04-11T06:57:26.254Z"
+      },
+      {
+        "id": "a_1775890643486_b0f28b6661b02",
+        "visitorId": "v_1775890598160_5906edc07be108",
+        "type": "page_view",
+        "path": "/game/g_2",
+        "createdAt": "2026-04-11T06:57:23.486Z"
+      },
+      {
+        "id": "a_1775890638430_a626530c3465",
+        "visitorId": "v_1775890598160_5906edc07be108",
+        "type": "page_view",
+        "path": "/",
+        "createdAt": "2026-04-11T06:57:18.430Z"
+      },
+      {
+        "id": "a_1775890617005_85d8700829d97",
+        "visitorId": "v_1775890598160_5906edc07be108",
+        "type": "page_view",
+        "path": "/game/g_2",
+        "createdAt": "2026-04-11T06:56:57.005Z"
+      },
+      {
+        "id": "a_1775890600209_f89ef2bf2fa4e",
+        "visitorId": "v_1775890598160_5906edc07be108",
+        "type": "page_view",
+        "path": "/",
+        "createdAt": "2026-04-11T06:56:40.209Z"
+      }
+    ]
+  }
+}
