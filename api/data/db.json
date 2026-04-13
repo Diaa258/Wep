@@ -1,0 +1,116 @@
+{
+  "games": [
+    {
+      "id": "g_1776018253959_633f80c294e28",
+      "name": "Portal 2",
+      "price": 200,
+      "shortDescription": "Portal 2 is a 2011 puzzle-platform game developed by Valve for Windows, macOS, Linux, PlayStation...",
+      "description": "Portal 2 is a 2011 puzzle-platform game developed by Valve for Windows, macOS, Linux, PlayStation 3, and Xbox 360. The digital PC versions are distributed online by Valve's Steam service, while all retail editions are distributed by Electronic Arts. A port for Nintendo Switch was released as part of Portal: Companion Collection in June 2022. Like original Portal, players solve puzzles by placing portals and teleporting between them. Portal 2 adds features including excursion funnels, lasers, light bridges, and paint-like gels that alter player movement or allow portals to be placed on any surface. In single-player campaign, players control Chell, who navigates the dilapidated Aperture Science Enrichment Center during its reconstruction by the supercomputer GLaDOS; new characters include robot Wheatley and Aperture founder Cave Johnson. In the new cooperative mode, players solve puzzles together as robots Atlas and P-Body.",
+      "images": [
+        "https://duckduckgo.com/i/65e8ef46ab129e96.jpg"
+      ],
+      "createdAt": "2026-04-12T18:24:13.959Z"
+    },
+    {
+      "id": "g_1776018238335_9167c8f305806",
+      "name": "BioShock",
+      "price": 200,
+      "shortDescription": "BioShock is a 2007 first-person shooter video game developed by 2K Boston and 2K Australia, and p...",
+      "description": "BioShock is a 2007 first-person shooter video game developed by 2K Boston and 2K Australia, and published by 2K. The first game in the BioShock series, it was released for Microsoft Windows and Xbox 360 platforms in August 2007; a PlayStation 3 port by Irrational, 2K Marin, 2K Australia and Digital Extremes was released in October 2008. The game follows player character Jack, who discovers the underwater city of Rapture, built by business magnate Andrew Ryan to be an isolated utopia. The discovery of ADAM, a genetic material which grants superhuman powers, initiated the city's turbulent decline. Jack attempts to escape Rapture, fighting its mutated and mechanical denizens, while engaging with a few sane survivors left and learning of the city's past. The player can defeat foes in several ways by using weapons, utilizing plasmids that give unique powers, and by turning Rapture's defenses against them through hacking.",
+      "images": [
+        "https://duckduckgo.com/i/0679f9d64156f1b1.jpg"
+      ],
+      "createdAt": "2026-04-12T18:23:58.335Z"
+    },
+    {
+      "id": "g_1776018199611_0495003fb15f",
+      "name": "Grand Theft Auto V",
+      "price": 200,
+      "shortDescription": "Grand Theft Auto V is a 2013 action-adventure game developed by Rockstar North and published by R...",
+      "description": "Grand Theft Auto V is a 2013 action-adventure game developed by Rockstar North and published by Rockstar Games. It is the seventh main entry in the Grand Theft Auto series, following 2008's Grand Theft Auto IV, and the fifteenth installment overall. Set within the fictional state of San Andreas, based on Southern California, the single-player story follows three protagonists—retired bank robber Michael De Santa, street gangster Franklin Clinton, and drug dealer and gunrunner Trevor Philips—and their attempts to commit heists while under pressure from a corrupt government agency and powerful criminals. Players freely roam San Andreas's open world countryside and the fictional city of Los Santos, based on Los Angeles. The game world is navigated on foot and by vehicle, from either a third-person or first-person perspective. Players control the protagonists throughout the single-player and switch among them, both during and outside missions.",
+      "images": [
+        "https://duckduckgo.com/i/8ee1f6d85bef7b65.png"
+      ],
+      "createdAt": "2026-04-12T18:23:19.611Z"
+    },
+    {
+      "id": "g_1776018184995_939c537792756",
+      "name": "Half-Life 2",
+      "price": 200,
+      "shortDescription": "Half-Life 2 is a 2004 first-person shooter game developed and published by Valve Corporation. It ...",
+      "description": "Half-Life 2 is a 2004 first-person shooter game developed and published by Valve Corporation. It was published for Windows on Valve's digital distribution service, Steam. Like the original Half-Life, Half-Life 2 is played from a first-person perspective, combining combat, puzzles, and storytelling. It adds features such as vehicles and physics-based gameplay. The player controls Gordon Freeman, who joins a resistance effort to liberate Earth from the alien Combine empire. Half-Life 2 was created using Valve's Source game engine, which was developed simultaneously. Development lasted five years and cost US $40 million. Valve's president, Gabe Newell, set his team's goal of redefining the FPS genre. They integrated the Havok physics engine, which simulates real-world physics, to reinforce the sense of presence and create new gameplay. They also developed characterization, with more detailed character models and animations.",
+      "images": [
+        "https://duckduckgo.com/i/1e40abae698f6807.jpg"
+      ],
+      "createdAt": "2026-04-12T18:23:04.995Z"
+    },
+    {
+      "id": "g_1776018162012_88d1f149a360b",
+      "name": "Disco Elysium: The",
+      "price": 200,
+      "shortDescription": "Disco Elysium is a 2019 role-playing video game developed and published by ZA/UM. The game was wr...",
+      "description": "Disco Elysium is a 2019 role-playing video game developed and published by ZA/UM. The game was written and designed by a team led by Estonian novelist Robert Kurvitz and executive producer Kaur Kender, featuring a painterly art style and music by the English band Sea Power. The game was released for Windows in October 2019 and macOS in April 2020. An expanded version of the game featuring full voice acting and new content, subtitled The Final Cut, was released for consoles in 2021 alongside a free update for PC versions. In August 2025, the game was ported for Android. Disco Elysium follows a troubled detective with no memory of his identity or the world around him. As he investigates a murder with a detective from another precinct, the player can piece together the protagonist's identity and discover what led him to his state. Disco Elysium is a non-traditional role-playing game featuring little combat.",
+      "images": [
+        "https://duckduckgo.com/i/c6d403f9ac45ace9.jpeg"
+      ],
+      "createdAt": "2026-04-12T18:22:42.012Z"
+    }
+  ],
+  "bookings": [
+    {
+      "id": "b_1776018316144_340ff25d6f01",
+      "gameId": "g_1776018162012_88d1f149a360b",
+      "name": "yousef",
+      "phone": "50-000-0001",
+      "contacted": false,
+      "createdAt": "2026-04-12T18:25:16.144Z"
+    },
+    {
+      "id": "b_1776018302688_f3aebad58486a",
+      "gameId": "g_1776018238335_9167c8f305806",
+      "name": "anas",
+      "phone": "01141739623",
+      "contacted": false,
+      "createdAt": "2026-04-12T18:25:02.688Z"
+    },
+    {
+      "id": "b_1776018285374_2fdd3844ba1ec",
+      "gameId": "g_1776018199611_0495003fb15f",
+      "name": "diaa",
+      "phone": "01550859996",
+      "contacted": false,
+      "createdAt": "2026-04-12T18:24:45.374Z"
+    }
+  ],
+  "analytics": {
+    "totalVisitors": 3,
+    "visitorIds": [
+      "v_1775890598160_5906edc07be108",
+      "v_1775979653127_12bcb01968d928",
+      "v_1776018834815_4bb68b21560ff"
+    ],
+    "viewsByPath": {
+      "/": 103,
+      "/game/g_2": 13,
+      "/dashboard": 173,
+      "/game/g_1775890731117_1333653882428": 5,
+      "/game/g_1": 12,
+      "/game/g_1775980062165_77532e315d59a": 6,
+      "/game/g_1775986153495_c62d0911fb57d": 3,
+      "/game/g_1775986044996_baf5c6c0bd4e5": 3,
+      "/game/g_1775986193669_c668986b51bcc": 3,
+      "/game/g_1775986374139_bdbbb928dfccb": 9,
+      "/game/g_1775986426989_9e7a75f4bd6cc": 3,
+      "/game/g_1775986668980_7b20b7059d294": 3,
+      "/game/g_1775986827970_765853de01b62": 3,
+      "/game/g_1775987125721_a06b10272755d": 3,
+      "/game/g_1775996558741_67166cbf41718": 3,
+      "/game/g_1775996616336_32c75b6d1651b": 3,
+      "/game/g_1775997333751_835852899fce3": 3,
+      "/game/g_1776008601313_906f598534a88": 3
+    },
+    "viewsByGameId": {},
+    "timeByGameIdMs": {},
+    "events": []
+  }
+}
