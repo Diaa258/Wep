@@ -31,8 +31,8 @@
       "destination": "/api/analytics"
     },
     {
-      "source": "/(.*)",
-      "destination": "/frontend/$1"
+      "source": "/((?!api).*)",
+      "destination": "/frontend/index.html"
     }
   ]
 }
