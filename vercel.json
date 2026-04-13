@@ -13,6 +13,17 @@
       }
     }
   ],
+  "headers": [
+    {
+      "source": "/assets/(.*\\.(js|mjs))",
+      "headers": [
+        {
+          "key": "Content-Type",
+          "value": "application/javascript"
+        }
+      ]
+    }
+  ],
   "rewrites": [
     {
       "source": "/api/games",
