@@ -27,7 +27,7 @@ export type Analytics = {
   events: unknown[];
 };
 
-const API_BASE = (import.meta as any).env.PROD ? "/api" : "http://localhost:4000";
+const API_BASE = (import.meta as any).env.PROD ? "/_/backend" : "http://localhost:4000";
 
 async function request<T>(path: string, init?: RequestInit): Promise<T> {
   const res = await fetch(`${API_BASE}${path}`, {
