@@ -15,7 +15,7 @@
   ],
   "headers": [
     {
-      "source": "/assets/(.*\\.(js|mjs))",
+      "source": "/assets/*.js",
       "headers": [
         {
           "key": "Content-Type",
